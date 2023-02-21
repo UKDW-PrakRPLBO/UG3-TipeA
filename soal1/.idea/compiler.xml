@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+      </profile>
+      <profile name="Annotation profile for soal1" enabled="true">
+        <sourceOutputDir name="../../Ug3TipeA/soal1/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../Ug3TipeA/soal1/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="soal1" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
