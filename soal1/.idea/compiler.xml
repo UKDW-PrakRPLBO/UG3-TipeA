@@ -6,11 +6,6 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-      </profile>
-      <profile name="Annotation profile for soal1" enabled="true">
-        <sourceOutputDir name="../../Ug3TipeA/soal1/target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../../Ug3TipeA/soal1/target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
         <module name="soal1" />
       </profile>
     </annotationProcessing>
