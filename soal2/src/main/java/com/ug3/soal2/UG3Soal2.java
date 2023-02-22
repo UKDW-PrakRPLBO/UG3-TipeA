@@ -4,7 +4,16 @@ import java.util.Scanner;
 public class UG3Soal2
 {
     public static void main( String[] args ) {
-        System.out.println("Hello World");
+
+        // panggil fungsi fibonacci disini
+    }
+
+    public static void fibonacci(
+            String firstWord,
+            String secondWord
+
+    ){
+        // tulis kode anda disini
     }
 
 }

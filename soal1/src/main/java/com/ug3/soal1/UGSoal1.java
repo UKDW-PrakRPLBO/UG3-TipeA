@@ -8,8 +8,12 @@ public class UGSoal1
 {
     public static void main( String[] args )
     {
-        System.out.println("Welcome to UG3!");
+        // panggil fungsi absen disini
+    }
+
+    public void absen(String name, String date, String time) {
+        // tulis kode anda disini
     }
 
 
-}
+    }
